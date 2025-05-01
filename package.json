@@ -2,7 +2,7 @@
   "name": "catalog-task-graph",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Vikram2995/catalog-work.git",
+  "homepage": "https://github.com/Vikram2995/catalog-work",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
