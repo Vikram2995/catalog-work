@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vikram2995/catalog-work/static/css/main.e7d54e7d.css",
-    "main.js": "/Vikram2995/catalog-work/static/js/main.3f2134a5.js",
-    "static/js/453.3f6de534.chunk.js": "/Vikram2995/catalog-work/static/js/453.3f6de534.chunk.js",
-    "static/media/logo.svg": "/Vikram2995/catalog-work/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Vikram2995/catalog-work/index.html",
-    "main.e7d54e7d.css.map": "/Vikram2995/catalog-work/static/css/main.e7d54e7d.css.map",
-    "main.3f2134a5.js.map": "/Vikram2995/catalog-work/static/js/main.3f2134a5.js.map",
-    "453.3f6de534.chunk.js.map": "/Vikram2995/catalog-work/static/js/453.3f6de534.chunk.js.map"
+    "main.css": "/catalog-work/static/css/main.e7d54e7d.css",
+    "main.js": "/catalog-work/static/js/main.ec38f6dd.js",
+    "static/js/453.3f6de534.chunk.js": "/catalog-work/static/js/453.3f6de534.chunk.js",
+    "static/media/logo.svg": "/catalog-work/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/catalog-work/index.html",
+    "main.e7d54e7d.css.map": "/catalog-work/static/css/main.e7d54e7d.css.map",
+    "main.ec38f6dd.js.map": "/catalog-work/static/js/main.ec38f6dd.js.map",
+    "453.3f6de534.chunk.js.map": "/catalog-work/static/js/453.3f6de534.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d54e7d.css",
-    "static/js/main.3f2134a5.js"
+    "static/js/main.ec38f6dd.js"
   ]
 }
